@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573818752641",
+    "project_id": "counsellor-eb861",
+    "storage_bucket": "counsellor-eb861.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573818752641:android:b9f3f3dc2ef45f394ec780",
+        "android_client_info": {
+          "package_name": "com.kinggadri.the_counsellor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573818752641-51gcnaf728igvg6gqfh2q4l76mhrbvf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIXksmpkX4NYpTXDYPak7ggKcuz0lxDo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573818752641-51gcnaf728igvg6gqfh2q4l76mhrbvf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
